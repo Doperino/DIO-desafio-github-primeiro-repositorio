@@ -7,3 +7,5 @@ O intuito desse repositório é aplicar o que foi ensinado na parte teórica do 
 - Guia para utilização do [Markdown](https://www.markdownguide.org/getting-started/)
 
 - Fonte externa da [Udemy](https://www.udemy.com/) com um curso gratuito para aprendizado de [Git/Github](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+
+- Ainda não participa do time da DIO? Crie agora o seu cadastro! A [DIO](https://www.dio.me/sign-up) quer te conhecer!
